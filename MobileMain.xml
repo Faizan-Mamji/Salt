@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Mobile Suite" preserve-order="true">
+    <listeners>
+        <listener class-name="org.TREE.Listeners.MobileAllureListener"/>
+    </listeners>
+    <test name="Mobile Test">
+        <classes>
+            <class name="org.TREE.TestExecution.Mobile.Selendroid_MobileApp_TestCases"/>
+        </classes>
+    </test>
+</suite>
