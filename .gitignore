@@ -6,6 +6,5 @@ target/*
 Logs/*.log
 Web_Screenshots/*
 allure-results
-Salt_AllureReporting/*
 Script_Recordings/*
 test-output
