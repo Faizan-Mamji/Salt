@@ -1,9 +1,9 @@
-package org.TREE.Utils;
+package org.Salt.Utils;
 
 import io.appium.java_client.AppiumDriver;
-import org.TREE.PageObjects.Mobile.Android.HomeScreen;
-import org.TREE.PageObjects.Mobile.Android.UserRegistration;
-import org.TREE.PageObjects.WebApplication.JqueryElements;
+import org.Salt.PageObjects.Mobile.Android.HomeScreen;
+import org.Salt.PageObjects.Mobile.Android.UserRegistration;
+import org.Salt.PageObjects.WebApplication.JqueryElements;
 import org.openqa.selenium.WebDriver;
 
 public class AllClasses extends PageFactory {

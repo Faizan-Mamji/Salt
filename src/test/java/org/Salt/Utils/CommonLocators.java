@@ -1,4 +1,4 @@
-package org.TREE.Utils;
+package org.Salt.Utils;
 
 import io.appium.java_client.AppiumBy;
 import io.appium.java_client.AppiumDriver;

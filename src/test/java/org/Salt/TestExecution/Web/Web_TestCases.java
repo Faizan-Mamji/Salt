@@ -1,13 +1,13 @@
-package org.TREE.TestExecution.Web;
+package org.Salt.TestExecution.Web;
 
 import io.qameta.allure.*;
-import org.TREE.BusinessLayer.Api_Logics;
-import org.TREE.BusinessLayer.Web_BusinessLogic;
-import org.TREE.Listeners.WebAllureListener;
-import org.TREE.Utils.AllClasses;
-import org.TREE.Utils.CommonStaticEnumStrings;
-import org.TREE.Utils.PageFactory;
-import org.TREE.Utils.PropertyReader;
+import org.Salt.BusinessLayer.Api_Logics;
+import org.Salt.BusinessLayer.Web_BusinessLogic;
+import org.Salt.Listeners.WebAllureListener;
+import org.Salt.Utils.AllClasses;
+import org.Salt.Utils.CommonStaticEnumStrings;
+import org.Salt.Utils.PageFactory;
+import org.Salt.Utils.PropertyReader;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;

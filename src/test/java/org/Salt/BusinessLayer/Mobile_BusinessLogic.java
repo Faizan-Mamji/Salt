@@ -1,9 +1,12 @@
-package org.TREE.BusinessLayer;
+package org.Salt.BusinessLayer;
 
 import com.google.common.collect.ImmutableMap;
 import io.appium.java_client.AppiumDriver;
 import io.qameta.allure.Step;
-import org.TREE.Utils.*;
+import org.Salt.Utils.AllClasses;
+import org.Salt.Utils.CommonMethods;
+import org.Salt.Utils.CommonStaticEnumStrings;
+import org.Salt.Utils.PageFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;

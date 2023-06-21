@@ -2,7 +2,7 @@
 <suite name="Api Suite" preserve-order="true">
     <test name="Api Test">
         <classes>
-            <class name="org.TREE.TestExecution.Api.Api_TestCases"/>
+            <class name="org.Salt.TestExecution.Web.Web_TestCases"/>
         </classes>
     </test>
 </suite>

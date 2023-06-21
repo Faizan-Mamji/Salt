@@ -1,8 +1,8 @@
-package org.TREE.Listeners;
+package org.Salt.Listeners;
 
 import io.appium.java_client.AppiumDriver;
 import io.qameta.allure.Attachment;
-import org.TREE.Utils.PageFactory;
+import org.Salt.Utils.PageFactory;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestContext;

@@ -1,11 +1,11 @@
-package org.TREE.TestExecution.Mobile;
+package org.Salt.TestExecution.Mobile;
 
 import io.qameta.allure.*;
-import org.TREE.BusinessLayer.Mobile_BusinessLogic;
-import org.TREE.Listeners.MobileAllureListener;
-import org.TREE.Utils.AllClasses;
-import org.TREE.Utils.CommonStaticEnumStrings;
-import org.TREE.Utils.PageFactory;
+import org.Salt.BusinessLayer.Mobile_BusinessLogic;
+import org.Salt.Listeners.MobileAllureListener;
+import org.Salt.Utils.AllClasses;
+import org.Salt.Utils.CommonStaticEnumStrings;
+import org.Salt.Utils.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.*;
 

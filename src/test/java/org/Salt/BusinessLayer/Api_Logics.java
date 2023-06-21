@@ -1,11 +1,11 @@
-package org.TREE.BusinessLayer;
+package org.Salt.BusinessLayer;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.response.ResponseBody;
-import org.TREE.Utils.CommonMethods;
-import org.TREE.Utils.CommonStaticEnumStrings;
-import org.TREE.Utils.PropertyReader;
+import org.Salt.Utils.CommonMethods;
+import org.Salt.Utils.CommonStaticEnumStrings;
+import org.Salt.Utils.PropertyReader;
 import org.apache.http.HttpStatus;
 import org.testng.Assert;
 

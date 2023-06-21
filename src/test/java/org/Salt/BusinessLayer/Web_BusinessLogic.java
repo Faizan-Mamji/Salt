@@ -1,9 +1,9 @@
-package org.TREE.BusinessLayer;
+package org.Salt.BusinessLayer;
 
 import io.qameta.allure.Step;
-import org.TREE.Utils.AllClasses;
-import org.TREE.Utils.CommonMethods;
-import org.TREE.Utils.PageFactory;
+import org.Salt.Utils.AllClasses;
+import org.Salt.Utils.CommonMethods;
+import org.Salt.Utils.PageFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Keys;

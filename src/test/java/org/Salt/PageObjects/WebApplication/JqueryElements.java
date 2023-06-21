@@ -1,7 +1,7 @@
-package org.TREE.PageObjects.WebApplication;
+package org.Salt.PageObjects.WebApplication;
 
-import org.TREE.Utils.AllClasses;
-import org.TREE.Utils.PageFactory;
+import org.Salt.Utils.AllClasses;
+import org.Salt.Utils.PageFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

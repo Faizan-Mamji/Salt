@@ -1,4 +1,4 @@
-package org.TREE.Utils;
+package org.Salt.Utils;
 
 public enum CommonStaticEnumStrings {
 

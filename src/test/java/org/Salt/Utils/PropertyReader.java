@@ -1,4 +1,4 @@
-package org.TREE.Utils;
+package org.Salt.Utils;
 
 import java.io.FileInputStream;
 import java.util.Properties;

@@ -1,9 +1,9 @@
-package org.TREE.PageObjects.Mobile.Android;
+package org.Salt.PageObjects.Mobile.Android;
 
 import io.appium.java_client.AppiumBy;
 import io.appium.java_client.AppiumDriver;
-import org.TREE.Utils.AllClasses;
-import org.TREE.Utils.PageFactory;
+import org.Salt.Utils.AllClasses;
+import org.Salt.Utils.PageFactory;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
